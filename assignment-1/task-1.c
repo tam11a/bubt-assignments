@@ -52,3 +52,16 @@ int main()
     printf("The standard deviation is : %.13lf\n", sqrt(sDeviation / (arrLength - 1)));
     return 0;
 }
+
+/*
+- Sample Input:
+
+Insert numbers: 3 4 5 6 8 13 11 19
+
+-  Sample Output:
+
+The mean is : 8.625
+The median is : 7
+The standard deviation is : 5.4231646006473
+
+*/

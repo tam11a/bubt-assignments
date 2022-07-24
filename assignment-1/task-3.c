@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+    // declare variables
     int a, b, temp;
     printf("Enter a: ");
     scanf("%d", &a);
@@ -12,3 +13,15 @@ int main()
     printf("After swapping, a: %d and b: %d\n",a,b);
     return 0;
 }
+
+/*
+- Sample Input:
+
+Enter a: 7
+Enter b: 3
+
+-  Sample Output:
+
+After swapping, a: 3 and b: 7
+
+*/
