@@ -55,3 +55,4 @@ assignment-*/*
 !assignment-*/*.c
 !assignment-*/*.cpp
 !assignment-*/*.md
+!assignment-*/*.pdf
