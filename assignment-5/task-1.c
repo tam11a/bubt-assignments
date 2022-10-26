@@ -26,6 +26,6 @@ int main()
         }
     }
 
-    printf("2nd Largest Value in Array: %d", secondMax);
+    printf("2nd Largest Value in Array: %d\n", secondMax);
     return 0;
 }
