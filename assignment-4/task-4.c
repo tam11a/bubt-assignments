@@ -2,7 +2,7 @@
 #include <math.h>
 
 int power(int x);
-int summation(int p);
+long long summation(int p);
 
 int main()
 {
@@ -18,7 +18,7 @@ int power(int x)
     return pow(x, x);
 }
 
-int summation(int p)
+long long summation(int p)
 {
     long long ans = 0;
     while (p)
