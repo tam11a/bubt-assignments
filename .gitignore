@@ -56,3 +56,9 @@ assignment-*/*
 !assignment-*/*.cpp
 !assignment-*/*.md
 !assignment-*/*.pdf
+
+theory/*/*
+!theory/*/*.c
+!theory/*/*.cpp
+!theory/*/*.md
+!theory/*/*.pdf
